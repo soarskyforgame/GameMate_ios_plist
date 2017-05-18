@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://resources4.578w.com/current/ios/GameMateClient1.4.2-debug.ipa</string>
+					<string>http://resources4.578w.com/current/ios/GameMateClient1.4.3-debug.ipa</string>
 				</dict>
 <!-- 				<dict>
 					<key>kind</key>
@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.paiyuan.gamemate</string>
+				<key>com.paiyuan.gamematetest</key>
 				<key>bundle-version</key>
-				<string>1.4.2</string>
+				<string>1.4.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
