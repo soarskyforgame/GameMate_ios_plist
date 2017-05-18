@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<key>com.paiyuan.gamematetest</key>
+				<key>com.paiyuan.gamemate</key>
 				<key>bundle-version</key>
 				<string>1.4.3</string>
 				<key>kind</key>
