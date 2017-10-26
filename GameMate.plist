@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<key>com.paiyuan.gamemate</key>
 				<key>bundle-version</key>
-				<string>2.0.4</string>
+				<string>2.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
